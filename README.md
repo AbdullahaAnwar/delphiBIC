@@ -30,12 +30,18 @@ How too run test cases
 
 1. install `pytest` if you haven't already by running the following command in your terminal:
    `pip istall pytest`
-2. Create a new Python file, for example pytest_fizzbuzz.py.
+   
+2. Create a new Python file, for example `pytest.py`.
     `import pytest`
     `from source import fizz_buzz`
-3. create a test_fizz_buzz() function, add the desired test cases using assert
+    
+3. create a `test_fizz_buzz()` function, add the desired test cases using `assert` statements to check excpected outputs.
 
-I did pytesting and made three use cases as follows:
+5. Open your terminal or command prompt, navigate to the directory containing `test_fizz_buzz.py, and run command as following:
+   `pytest`
+Note:`pytest` will automatically discover and run the test cases defined in the file, and display the test results in the terminal.
+
+I made three use cases as follows:
 
 
 Test case 1:
