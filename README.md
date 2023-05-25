@@ -20,8 +20,6 @@ To use the FizzBuzz program, follow these steps:
 
 4. Run the `main.py` file using the Python interpreter:
 
-   bash
-   python source.py
    python main.py
    
 
