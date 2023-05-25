@@ -20,9 +20,8 @@ To use the FizzBuzz program, follow these steps:
 
 4. Run the `main.py` file using the Python interpreter:
 
-   python main.py
+   `python main.py`
    
-
 5. Enter the start and end values in this fizz_buzz function. The program will print the FizzBuzz sequence between the given values.
 
 ## Testing
