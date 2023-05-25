@@ -28,7 +28,7 @@ To use the FizzBuzz program, follow these steps:
 5. Enter the start and end values in this fizz_buzz function. The program will print the FizzBuzz sequence between the given values.
 
 ## Testing
-I did pytesting andd made tthree use cases as follows:
+I did pytesting and made tthree use cases as follows:
 
 
 Test case 1:
