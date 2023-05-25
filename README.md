@@ -37,7 +37,7 @@ How too run test cases
     
 3. create a `test_fizz_buzz()` function, add the desired test cases using `assert` statements to check excpected outputs.
 
-5. Open your terminal or command prompt, navigate to the directory containing `test_fizz_buzz.py, and run command as following:
+5. Open your terminal or command prompt, navigate to the directory containing `pytest.py`, and run command as following:
    `pytest`
 Note:`pytest` will automatically discover and run the test cases defined in the file, and display the test results in the terminal.
 
