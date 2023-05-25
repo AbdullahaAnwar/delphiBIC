@@ -25,7 +25,17 @@ To use the FizzBuzz program, follow these steps:
 5. Enter the start and end values in this fizz_buzz function. The program will print the FizzBuzz sequence between the given values.
 
 ## Testing
-I did pytesting and made tthree use cases as follows:
+
+How too run test cases
+
+1. install `pytest` if you haven't already by running the following command in your terminal:
+   `pip istall pytest`
+2. Create a new Python file, for example pytest_fizzbuzz.py.
+    `import pytest`
+    `from source import fizz_buzz`
+3. create a test_fizz_buzz() function, add the desired test cases using assert
+
+I did pytesting and made three use cases as follows:
 
 
 Test case 1:
