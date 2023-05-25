@@ -27,6 +27,27 @@ To use the FizzBuzz program, follow these steps:
 
 5. Enter the start and end values in this fizz_buzz function. The program will print the FizzBuzz sequence between the given values.
 
+## Testing
+I did pytesting andd made tthree use cases as follows:
+
+
+Test case 1:
+
+Description: Testing a normal sequence
+Expected Output: [Expected output here]
+
+
+Test case 2:
+
+Description: Testing negative input values
+Expected Error: ValueError: Either of the input values are negative
+
+Test case 3:
+
+Description: Testing non-integer input values
+Expected Error: TypeError: Only integers are allowed
+
+
 ## Example
 
 Here's an example usage of the FizzBuzz program:
