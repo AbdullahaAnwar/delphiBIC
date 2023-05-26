@@ -26,7 +26,7 @@ To use the FizzBuzz program, follow these steps:
 
 ## Testing
 
-How too run test cases
+How to run test cases
 
 1. install `pytest` if you haven't already by running the following command in your terminal:
    `pip istall pytest`
