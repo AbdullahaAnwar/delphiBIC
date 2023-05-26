@@ -22,7 +22,7 @@ To use the FizzBuzz program, follow these steps:
 
    `python main.py`
    
-5. Enter the start and end values in this fizz_buzz function. The program will print the FizzBuzz sequence between the given values.
+5. Enter the start and end values in this `fizz_buzz` function. The program will print the FizzBuzz sequence between the given values.
 
 ## Testing
 
