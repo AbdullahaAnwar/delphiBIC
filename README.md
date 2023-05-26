@@ -71,6 +71,7 @@ Here's an example usage of the FizzBuzz program:
 `import source`
 
 `source.fizzbuzz(1,50)`
+
 1
 2
 Fizz
