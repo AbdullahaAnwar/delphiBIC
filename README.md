@@ -66,7 +66,7 @@ Expected Error: TypeError: Only integers are allowed
 Here's an example usage of the FizzBuzz program:
 
 
-`$ python main.py`
+In `python main.py`
 
 `import source`
 
